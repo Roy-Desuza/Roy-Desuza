@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Roy-Dinesh
+- 👋 Hi, I’m @Roy-Desuza
 - 👀 I’m interested in finding my Eureka! moment
 - 🌱 I’m currently learning coding
 - 💞️ I’m looking to collaborate on puzzles and decoding
